@@ -1,0 +1,395 @@
+{
+  "rows": [
+    {
+      "machine_id": "MCH-100",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 65,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 5.4,
+      "rpm": 2900,
+      "operating_hours": 1200,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-101",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 77.6,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 4.99,
+      "rpm": 3000,
+      "operating_hours": 1208,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-102",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 78.6,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 4.13,
+      "rpm": 3100,
+      "operating_hours": 1216,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-103",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 67.1,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 3.61,
+      "rpm": 3200,
+      "operating_hours": 1224,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-104",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 53.6,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 3.91,
+      "rpm": 3300,
+      "operating_hours": 1232,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10005",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 50.6,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 4.76,
+      "rpm": 3400,
+      "operating_hours": 1240,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10006",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 60.8,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 5.36,
+      "rpm": 2900,
+      "operating_hours": 1248,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10007",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 74.9,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 5.18,
+      "rpm": 3000,
+      "operating_hours": 1256,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10008",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 79.8,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 4.37,
+      "rpm": 3100,
+      "operating_hours": 1264,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10009",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 71.2,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 3.68,
+      "rpm": 3200,
+      "operating_hours": 1272,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10010",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 56.8,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 3.74,
+      "rpm": 3300,
+      "operating_hours": 1280,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10011",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 50,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 4.5,
+      "rpm": 3400,
+      "operating_hours": 1288,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10012",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 57,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 5.26,
+      "rpm": 2900,
+      "operating_hours": 1296,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10013",
+      "timestamp": "2026-11-15",
+      "site": "Plant beta",
+      "temperature_c": 71.3,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 5.32,
+      "rpm": 3000,
+      "operating_hours": 1304,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MACHINE_ID_10014",
+      "timestamp": "2026-11-15",
+      "site": "Plant alpha",
+      "temperature_c": 79.9,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 4.62,
+      "rpm": 3100,
+      "operating_hours": 1312,
+      "failure_flag": 0
+    }
+  ],
+  "originalRows": [
+    {
+      "machine_id": "MCH-100",
+      "timestamp": "2026-11-15T14:13:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 65,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 5.4,
+      "rpm": 2900,
+      "operating_hours": 1200,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-101",
+      "timestamp": "2026-11-15T14:14:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 77.6,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 4.99,
+      "rpm": 3000,
+      "operating_hours": 1208,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-102",
+      "timestamp": "2026-11-15T14:15:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 78.6,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 4.13,
+      "rpm": 3100,
+      "operating_hours": 1216,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-103",
+      "timestamp": "2026-11-15T14:16:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 67.1,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 3.61,
+      "rpm": 3200,
+      "operating_hours": 1224,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-104",
+      "timestamp": "2026-11-15T14:17:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 53.6,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 3.91,
+      "rpm": 3300,
+      "operating_hours": 1232,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-100",
+      "timestamp": "2026-11-15T14:18:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 50.6,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 4.76,
+      "rpm": 3400,
+      "operating_hours": 1240,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-101",
+      "timestamp": "2026-11-15T14:19:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 60.8,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 5.36,
+      "rpm": 2900,
+      "operating_hours": 1248,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-102",
+      "timestamp": "2026-11-15T14:20:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 74.9,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 5.18,
+      "rpm": 3000,
+      "operating_hours": 1256,
+      "failure_flag": 1
+    },
+    {
+      "machine_id": "MCH-103",
+      "timestamp": "2026-11-15T14:21:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 79.8,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 4.37,
+      "rpm": 3100,
+      "operating_hours": 1264,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-104",
+      "timestamp": "2026-11-15T14:22:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 71.2,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 3.68,
+      "rpm": 3200,
+      "operating_hours": 1272,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-100",
+      "timestamp": "2026-11-15T14:23:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 56.8,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 3.74,
+      "rpm": 3300,
+      "operating_hours": 1280,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-101",
+      "timestamp": "2026-11-15T14:24:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 50,
+      "vibration_mm_s": 4.5,
+      "pressure_bar": 4.5,
+      "rpm": 3400,
+      "operating_hours": 1288,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-102",
+      "timestamp": "2026-11-15T14:25:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 57,
+      "vibration_mm_s": 2.1,
+      "pressure_bar": 5.26,
+      "rpm": 2900,
+      "operating_hours": 1296,
+      "failure_flag": 0
+    },
+    {
+      "machine_id": "MCH-103",
+      "timestamp": "2026-11-15T14:26:18.957Z",
+      "site": "Plant Beta",
+      "temperature_c": 71.3,
+      "vibration_mm_s": 2.9,
+      "pressure_bar": 5.32,
+      "rpm": 3000,
+      "operating_hours": 1304,
+      "failure_flag": 1
+    },
+    {
+      "machine_id": "MCH-104",
+      "timestamp": "2026-11-15T14:27:18.957Z",
+      "site": "Plant Alpha",
+      "temperature_c": 79.9,
+      "vibration_mm_s": 3.7,
+      "pressure_bar": 4.62,
+      "rpm": 3100,
+      "operating_hours": 1312,
+      "failure_flag": 0
+    }
+  ],
+  "columns": [
+    {
+      "name": "machine_id",
+      "type": "identifier",
+      "isIdentifier": true,
+      "missingCount": 0,
+      "uniqueCount": 5
+    },
+    {
+      "name": "timestamp",
+      "type": "datetime",
+      "missingCount": 0,
+      "uniqueCount": 15
+    },
+    {
+      "name": "site",
+      "type": "categorical",
+      "missingCount": 0,
+      "uniqueCount": 2
+    },
+    {
+      "name": "temperature_c",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 15
+    },
+    {
+      "name": "vibration_mm_s",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 15
+    },
+    {
+      "name": "pressure_bar",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 15
+    },
+    {
+      "name": "rpm",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 6
+    },
+    {
+      "name": "operating_hours",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 15
+    },
+    {
+      "name": "failure_flag",
+      "type": "numeric",
+      "missingCount": 0,
+      "uniqueCount": 2
+    }
+  ],
+  "parentDatasetId": "ds_cl1_vibration_telemetry",
+  "healEngineVersion": "v2.0"
+}
